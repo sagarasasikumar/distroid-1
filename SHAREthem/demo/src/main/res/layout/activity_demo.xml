@@ -38,7 +38,7 @@
             android:background="@drawable/receive_button_bg"
             android:gravity="center"
             android:onClick="receiveFiles"
-            android:text="WIFION"
+            android:text="Wifion"
             android:textColor="@android:color/white"
             android:textSize="@dimen/circular_textview_size" />
     </LinearLayout>
